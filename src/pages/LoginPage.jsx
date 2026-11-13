@@ -51,8 +51,8 @@ function LoginPage() {
         </div>
 
         {/* center circle */}
-        <div className="my-12 lg:my-0 flex items-center justify-center">
-          <div className="w-[320px] h-[320px] sm:w-[420px] sm:h-[420px] rounded-full border border-[#C8A887]/30 flex items-center justify-center p-3">
+        <div className="my-8 lg:my-10 flex items-center justify-center">
+          <div className="w-80 h-80 sm:w-[420px] sm:h-[420px] rounded-full border border-[#C8A887]/30 flex items-center justify-center p-3">
             <div className="w-full h-full rounded-full border border-[#C8A887]/20 flex flex-col items-center justify-center text-center px-8">
               <span className="text-[9px] sm:text-[10px] tracking-[0.25em] text-[#C8A887] uppercase mb-5">
                 THE SCHOLAR'S COMPANION
@@ -68,7 +68,7 @@ function LoginPage() {
               </h1>
 
               <span className="text-[9px] tracking-[0.2em] text-[#C8A887]/90 uppercase mt-7">
-                KNOWLEDGE - COMMUNITY - GROWTH
+                KNOWLEDGE • COMMUNITY • GROWTH
               </span>
             </div>
           </div>
